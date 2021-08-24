@@ -1,0 +1,1 @@
+Project for setting time to do the things you want, while also cutting out the things you dont.
